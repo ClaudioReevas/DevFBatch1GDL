@@ -1,0 +1,12 @@
+linea 1
+linea 2
+linea 3
+linea 4 linea 4.5
+linea 5
+
+
+
+
+
+switch 192.168.1.145
+router 192.168.1.156

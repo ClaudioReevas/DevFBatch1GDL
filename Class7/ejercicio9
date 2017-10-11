@@ -1,0 +1,27 @@
+#Encoding
+# -.- coding: utf-8 -*-
+# Escriba un probrama que permita crear una lista de palabras.
+# Para ello, el programa tiene que pedir un número
+# y luego solicitar ese número de palabras para crear la lista.
+# Por último, el programa tiene que escribir la lista.
+
+
+lista = []
+es_entero = False
+
+def captura_lista(cantidad_elementos):
+    lista = []
+    for x in range(0,int(cantidad_elementos)):
+        nuevo_elemento = raw_input("Captura el elemento ")
+        lista.append(nuevo_elemento)
+    return lista
+
+while es_entero == False:
+    cantidad_elementos = raw_input("captura cantidad de elementos a capturar: ")
+    if cantidad_elementos.isdigit() == True:
+        break
+
+lista = captura_lista(cantidad_elementos)
+
+print lista
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Class10/.idea/Class10.iml" filepath="$PROJECT_DIR$/../Class10/.idea/Class10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class11/.idea/Class11.iml" filepath="$PROJECT_DIR$/../Class11/.idea/Class11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class12/.idea/Class12.iml" filepath="$PROJECT_DIR$/../Class12/.idea/Class12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class3/.idea/Class3.iml" filepath="$PROJECT_DIR$/../Class3/.idea/Class3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class4/.idea/Class4.iml" filepath="$PROJECT_DIR$/../Class4/.idea/Class4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class5/.idea/Class5.iml" filepath="$PROJECT_DIR$/../Class5/.idea/Class5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class6/.idea/Class6.iml" filepath="$PROJECT_DIR$/../Class6/.idea/Class6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class7/.idea/Class7.iml" filepath="$PROJECT_DIR$/../Class7/.idea/Class7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class8/.idea/Class8.iml" filepath="$PROJECT_DIR$/../Class8/.idea/Class8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Class9/.idea/Class9.iml" filepath="$PROJECT_DIR$/../Class9/.idea/Class9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../expendedora/.idea/expendedora.iml" filepath="$PROJECT_DIR$/../expendedora/.idea/expendedora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facebooktest/.idea/facebooktest.iml" filepath="$PROJECT_DIR$/../facebooktest/.idea/facebooktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filetest/.idea/filetest.iml" filepath="$PROJECT_DIR$/../filetest/.idea/filetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/holamundo.iml" filepath="$PROJECT_DIR$/.idea/holamundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../katasW1/.idea/katasW1.iml" filepath="$PROJECT_DIR$/../katasW1/.idea/katasW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pomodoro/.idea/pomodoro.iml" filepath="$PROJECT_DIR$/../pomodoro/.idea/pomodoro.iml" />
+    </modules>
+  </component>
+</project>
